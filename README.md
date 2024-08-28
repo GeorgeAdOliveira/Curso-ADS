@@ -1,2 +1,2 @@
 # Curso ADS
- Atividades e Listas de exercicios resolvidos no decorer do curso
+ Atividades e Listas de exercicios resolvidos no decorrer do curso
